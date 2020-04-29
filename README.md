@@ -28,3 +28,8 @@ is2("2");
 
 ```
 
+## Tests
+
+```bash
+$ npm test
+```
