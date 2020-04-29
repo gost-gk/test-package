@@ -17,5 +17,6 @@ describe("is2", function() {
         assert(!is2(null));
         assert(!is2(undefined));
         assert(!is2("2"));
+        assert(!is2({prop: "2"}));
     });
 });
